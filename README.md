@@ -1,2 +1,2 @@
 # DEMO
-First Repositor
+First Repository
